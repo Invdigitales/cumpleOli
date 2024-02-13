@@ -91,20 +91,30 @@ margin-left: 68%;
   .parrafo2{
     text-align: center;
     font-family: 'Julius Sans One', sans-serif;
+       font-size: 18px;
+       color: #454444;
+       margin-top: 5%; 
+       font-weight: 900; 
+       
+       
+  }
+  .parrafo02{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
        font-size: 16px;
        color: #585858;
        margin-top: 5%;  
-       font-weight: 800;
+       font-weight: 600;
+       
   }
-
 
   .parrafo3{
     text-align: center;
     font-family: 'Julius Sans One', sans-serif;
        font-size: 16px;
        color: #585858;
-       margin-top: 10%;  
-       font-weight: 800;
+       margin-top: 5%;  
+       font-weight: 600;
   }
   .click {
     padding: 2px 10px;
@@ -117,7 +127,7 @@ margin-left: 68%;
    background-size: 60%;
     box-shadow: 1px 1px 30px -5px#E140A3; 
     cursor: pointer;
-    margin-left: 34%;
+    margin-left: 32%;
     background-color: #4e4e4e;
   }
 
@@ -129,19 +139,17 @@ margin-left: 68%;
      margin-top: 10%;  
      font-weight: 800;
 }
-.olivia{
-  width: 27%;
-  margin-left: 36%;
-  margin-top: -7%;
-}
+
 .linea{
   color:#696969;
   width: 70%;
  margin-left: 15%;
+ margin-top: 10%;
 }
 .corazon{
-  width: 15%;
-  margin-top: -20%;
+  width: 20%;
+  margin-top: -5%;
+  margin-left: 40%;
 }
 
 

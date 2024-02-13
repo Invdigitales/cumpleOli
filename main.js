@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3400.1450577413034!2d-68.61219234180295!3d-31.54763342952279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968140d6d33de63d%3A0x99f744d947db5fb8!2sCamping%20UDAP!5e0!3m2!1ses-419!2sar!4v1705498630525!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.1113960678335!2d-64.16833992505727!3d-31.411056795992522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a348c5c382cb%3A0xaafc13ca9f3043ed!2sBloom%20Fiestas%20Infantiles!5e0!3m2!1ses-419!2sar!4v1707851628165!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
