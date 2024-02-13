@@ -79,6 +79,72 @@ margin-top: -25%;
 margin-left: 68%;
   }
 
+  .parrafo1{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+       font-size: 23px;
+       color: #E140A3;
+       margin-top: 5%;  
+       font-weight: 800;
+  }
+
+  .parrafo2{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+       font-size: 16px;
+       color: #585858;
+       margin-top: 5%;  
+       font-weight: 800;
+  }
+
+
+  .parrafo3{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+       font-size: 16px;
+       color: #585858;
+       margin-top: 10%;  
+       font-weight: 800;
+  }
+  .click {
+    padding: 2px 10px;
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    border: none;
+    color: #edb8d9;
+   background-image: url(./imagenes/2yqT.gif);
+   background-size: 60%;
+    box-shadow: 1px 1px 30px -5px#E140A3; 
+    cursor: pointer;
+    margin-left: 34%;
+    background-color: #4e4e4e;
+  }
+
+.esperamos{
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+     font-size: 23px;
+     color: #7d4266;
+     margin-top: 10%;  
+     font-weight: 800;
+}
+.olivia{
+  width: 27%;
+  margin-left: 36%;
+  margin-top: -7%;
+}
+.linea{
+  color:#696969;
+  width: 70%;
+ margin-left: 15%;
+}
+.corazon{
+  width: 15%;
+  margin-top: -20%;
+}
+
+
 }
   
  
